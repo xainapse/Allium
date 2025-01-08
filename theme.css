@@ -90,16 +90,24 @@ body {
     --background-modifier-border-hover: var(--Axt2);
     --quote-opening-modifier: var(--Axt2);
     /* ------------------------------------------------------------ */
-    --bold-color: #81189b;
+    --bold-color: #9c4296;
     /* ------------------------------------------------------------ */
-    --italic-color: #FCA287;
+    --italic-color: #f3967a;
     /* ------------------------------------------------------------ */
-    --text-formatting: #81189b;
+    --text-formatting: #9c4296;
     /* ------------------------------------------------------------ */
-    --icon-color: #C8A2C8;
+    --icon-color: #d8bcd8;
     /* ------------------------------------------------------------ */
-    --scrollbar-bg: transparent;
-      --color-base-00: var(--EBgnd);
+
+    --h1-color: #d8bcd8;
+    --h2-color: #c4a5c4;
+    --h3-color: #ac81ac;
+    --h4-color: #946a94;
+    --h5-color: #835783;
+    --h6-color: #805380;
+
+  --scrollbar-bg: transparent;
+  --color-base-00: var(--EBgnd);
   --color-base-05: var(--EBgnd);
   --color-base-10: var(--EBgnd);
   --color-base-20: var(--Bgnd);
