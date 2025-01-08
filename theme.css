@@ -14,7 +14,7 @@ body {
     --background-primary: var(--EBgnd);
     --color-scheme: dark; 
     /* ------------------------------------------------------------ */
-    --Bgnd: #30222B;    /* Background Color */
+    --Bgnd: #2C1C27;    /* Background Color */
     --background-table-rows: var(--Bgnd);
     --ribbon-background: var(--Bgnd);
     --search-result-background: var(--EBgnd);
@@ -23,7 +23,7 @@ body {
     --titlebar-border-color: var(--Bgnd);
     --background-secondary: var(--Bgnd);  
     /* ------------------------------------------------------------ */
-    --EBgnd: #252429;   /* Editor Background Color */
+    --EBgnd: #211F23;   /* Editor Background Color */
     --background-modifier-form-field-highlighted: var(--EBgnd);
     --background-modifier-form-field: var(--EBgnd);
     /* ------------------------------------------------------------ */
@@ -58,7 +58,7 @@ body {
     --text-accent-hover: var(--AccentA2);
     --text-accent: var(--AccentA2);
     /* ------------------------------------------------------------ */
-    --txt: hsl(300, 24%, 75%);     /* Normal text */
+    --txt: #d8bcd8;     /* Normal text */
     --nav-item-color: var(--txt);
     --nav-item-color-active: var(--txt);
     --nav-item-color-hover: var(--txt);
@@ -70,10 +70,10 @@ body {
     --icon-color-active: var(--txt);
     --icon-color-focused: var(--txt);
     --code-normal: var(--txi);
-    --titlebar-text-color: #C8A2C8;
-    --titlebar-text-color-focused: #C8A2C8;
+    --titlebar-text-color: #d8bcd8;
+    --titlebar-text-color-focused: #d8bcd8;
     /* ------------------------------------------------------------ */
-    --txi: #c576c5a2;   /* transparent text */
+    --txi: #e499e4a2;   /* transparent text */
     --icon-color-hover: var(--txi);
     --icon-color: var(--txi);
     --nav-collapse-icon-color: var(--txi);
@@ -81,8 +81,8 @@ body {
     --list-marker-color: var(--txi);
     --text-selection: var(--txi);
     --text-formatting: var(--txi);
-    --text-muted: var(--txi);
-    --text-faint: var(--txi);
+    --text-muted: #e499e4a2;
+    --text-faint: #e499e4a2;
     --text-error: #f1637d;
     --text-blockquote: var(--txi);
     /* ------------------------------------------------------------ */
@@ -90,11 +90,11 @@ body {
     --background-modifier-border-hover: var(--Axt2);
     --quote-opening-modifier: var(--Axt2);
     /* ------------------------------------------------------------ */
-    --bold-color: #967BB6;
+    --bold-color: #81189b;
     /* ------------------------------------------------------------ */
     --italic-color: #FCA287;
     /* ------------------------------------------------------------ */
-    --text-formatting: #967BB6;
+    --text-formatting: #81189b;
     /* ------------------------------------------------------------ */
     --icon-color: #C8A2C8;
     /* ------------------------------------------------------------ */
@@ -105,17 +105,17 @@ body {
   --color-base-20: var(--Bgnd);
   --color-base-25: #252429; 
   --color-base-30: var(--Axt);
-  --color-base-35: #c8a2c85f;
+  --color-base-35: #a540a55f;
   --color-base-40: var(--Axt);
   --color-base-50: var(--txi);
-  --color-base-60: #C8A2C8;
-  --color-base-70: #C8A2C8;
-  --color-base-100: #C8A2C8;
+  --color-base-60: #d8bcd8;
+  --color-base-70: #d8bcd8;
+  --color-base-100: #d8bcd8;
      /* Graphs */
   --graph-controls-width: 240px;
   --graph-text: var(--text-normal);
   --graph-line: var(--color-base-35, var(--background-modifier-border-focus));
-  --graph-node: #C8A2C8;
+  --graph-node: #d8bcd8;
   --graph-node-unresolved: var(--text-faint);
   --graph-node-focused: var(--text-accent);
   --graph-node-tag: #C8D89BDB;
