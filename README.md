@@ -1,7 +1,6 @@
 # Allium
-<img width="600" alt="Screenshot 2024-06-03 at 4 40 52 PM" src="https://github.com/nulglyph/Allium/assets/170279949/bde74c38-ea69-49ba-aacf-51d0e9348126">
-
-<img width="600" alt="Screenshot 2024-06-03 at 5 49 26 PM" src="https://github.com/nulglyph/Allium/assets/170279949/897604d1-20bf-42d0-af0b-2b69601e98f6">
+![Allium V2](https://github.com/user-attachments/assets/efefbff2-7f2a-4c93-a2c9-9a4587ff3b36)
+![Allium V2 Graph](https://github.com/user-attachments/assets/e08974c6-b1bb-43b1-a861-7e188bdbf79b)
 
 
 
