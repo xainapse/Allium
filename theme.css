@@ -8,6 +8,7 @@ body {
 	--toggle-radius: 2px;
 	--toggle-thumb-radius: 2px;
 	--slider-thumb-radius: 2px;
+  
 }
 .theme-dark {   
     --nav-item-background-selected: var(--Axt);
