@@ -70,8 +70,8 @@ body {
     --icon-color-active: var(--txt);
     --icon-color-focused: var(--txt);
     --code-normal: var(--txi);
-    --titlebar-text-color: #d8bcd8;
-    --titlebar-text-color-focused: #d8bcd8;
+    --titlebar-text-color: var(--txt);
+    --titlebar-text-color-focused: var(--txt);
     /* ------------------------------------------------------------ */
     --txi: #e499e4a2;   /* transparent text */
     --icon-color-hover: var(--txi);
