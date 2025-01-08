@@ -1,4 +1,7 @@
 # Allium
+## Allium V2 is Here!
+I barely changed anything tho just increased the contrast of the backgrounds and text a bit for less eye strain, and I also modfied heading colors, bold color, and tweaked italic color slightly.
+
 ![Allium V2](https://github.com/user-attachments/assets/efefbff2-7f2a-4c93-a2c9-9a4587ff3b36)
 ![Allium V2 Graph](https://github.com/user-attachments/assets/e08974c6-b1bb-43b1-a861-7e188bdbf79b)
 
