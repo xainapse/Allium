@@ -129,6 +129,11 @@ body {
   --graph-node-focused: var(--text-accent);
   --graph-node-tag: #C8D89BDB;
   --graph-node-attachment: #d6d89b;
+
+
+  --dropdown-background:var(--Bgnd);
+  --dropdown-background-normal:var(--Bgnd);
+  --dropdown-background-hover:var(--Bgnd);
   }
 .theme-light {
   --nav-item-background-selected: var(--Axt);
