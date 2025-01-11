@@ -242,5 +242,9 @@ body {
   --graph-node-tag: #C8D89BDB;
   --graph-node-attachment: #412438;
   
-  }
+
+  --dropdown-background:var(--Bgnd);
+  --dropdown-background-normal:var(--Bgnd);
+  --dropdown-background-hover:var(--Bgnd);
+}
 
